@@ -1,19 +1,41 @@
-# tec-transformer
+# TEC-transformer
 
-## Abstract
+Banner
 
-## Motivation
+Title
 
-## Architecture
+Badges
 
-## Methodology
+📖 Abstract
 
-## Results
+🎯 Research Motivation
 
-## Installation
+✨ Key Contributions
 
-## Usage
+🏗️ System Architecture
 
-## Citation
+⚙️ Methodology
 
-## License
+📊 Experimental Setup
+
+📈 Results and Performance
+
+📂 Repository Structure
+
+🚀 Quick Start
+
+⚙️ Installation
+
+🔬 Reproducibility
+
+📄 Related Publication
+
+📖 Citation
+
+🗺️ Future Work
+
+🤝 Contributing
+
+📜 License
+
+📬 Contact
